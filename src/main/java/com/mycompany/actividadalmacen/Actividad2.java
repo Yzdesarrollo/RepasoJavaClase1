@@ -12,6 +12,8 @@ package com.mycompany.actividadalmacen;
 public class Actividad2 {
 
     public static void main(String[] args) {
+        
+        // Empresa WC
 
         var ProyectoA = 20000;
         var ProyectoB = 10000;

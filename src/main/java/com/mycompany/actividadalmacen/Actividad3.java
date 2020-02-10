@@ -14,6 +14,8 @@ import java.util.Scanner;
 public class Actividad3 {
     public static void main(String[] args) {
         
+        // Hotel WC
+        
         var TarifaIndividual = 2500;
         var TarifaDoble = 4600;
         var TarifaFamiliar = 5200;
